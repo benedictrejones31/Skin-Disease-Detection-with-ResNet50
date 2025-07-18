@@ -1,1 +1,1 @@
-# Skin-Disease-Detection-with-ResNet50
+# Real-Time Skin-Disease-Detection
